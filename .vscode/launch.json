@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ShoppingcartApplication<csmsshoppingcart>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.authorname.shoppingcard.ShoppingcartApplication",
+            "projectName": "csmsshoppingcart",
+            "args": ""
+        }
+    ]
+}
